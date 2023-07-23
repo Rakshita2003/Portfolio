@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/Rakshita2003/Portfolio/",
+  "homepage": "https://rakshita2003.github.io/Portfolio/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
