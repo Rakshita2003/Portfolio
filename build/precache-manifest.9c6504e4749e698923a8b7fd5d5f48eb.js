@@ -64,8 +64,16 @@ self.__precacheManifest = [
     "url": "/Rakshita2003/Portfolio/static/media/contact.51c34c80.png"
   },
   {
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/Rakshita2003/Portfolio/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
     "url": "/Rakshita2003/Portfolio/static/media/fontawesome-webfont.af7ae505.woff2"
+  },
+  {
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/Rakshita2003/Portfolio/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
     "revision": "b06871f281fee6b241d60582ae9369b9",
@@ -74,14 +82,6 @@ self.__precacheManifest = [
   {
     "revision": "912ec66d7572ff821749319396470bde",
     "url": "/Rakshita2003/Portfolio/static/media/fontawesome-webfont.912ec66d.svg"
-  },
-  {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/Rakshita2003/Portfolio/static/media/fontawesome-webfont.fee66e71.woff"
-  },
-  {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "/Rakshita2003/Portfolio/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
     "revision": "71ab9f832ea1897d8addb3989dc22a0b",
