@@ -1,7 +1,6 @@
 import React from 'react';
 import { Fade } from "react-awesome-reveal";
 import './styles.css';
-import about from '../media/home.png';
 import resume from '../media/RakshitaGowda_Resume.pdf';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
@@ -84,7 +83,7 @@ const About = ({ darkMode }) => {
                                     <Card.Title><h2 className="lead">Let's have an introduction!</h2></Card.Title>
                                     <br />
                                     <Card.Text>
-                                        <p align="justify">I believe in the ideology that <strong>learning is a continuous process that should never cease.<br /></strong>   <br />Currently, I am a final year student at Usha Mittal Institute of Technology, majoring in Electronics and Commuication. With a deep passion for development, I consider myself a full-stack developer with a genuine love for designing.<br /> I was always interested in multiple things, and multitasking gradually became a routine. I love networking, and I could spend hours talking about things. <br />If you offer me an opportunity, you have a great chance of having me, as I value the power of teamwork. I am always open to new connections.
+                                        <p align="justify">I believe in the ideology that <strong>learning is a continuous process that should never cease.<br /></strong>   <br />Currently, I am a final year student at Usha Mittal Institute of Technology, majoring in Electronics and Commuication. With a deep passion for development, I consider myself a full-stack developer with a genuine love for designing and also I have keen interest in Machine Learning.<br /> I was always interested in multiple things, and multitasking gradually became a routine. I love networking, and I could spend hours talking about things. <br />If you offer me an opportunity, you have a great chance of having me, as I value the power of teamwork. I am always open to new connections.
 
                                             <br />  <br /><i><strong>Feel free to reach out and connect with me.</strong></i></p>
                                     </Card.Text>
@@ -112,7 +111,7 @@ const About = ({ darkMode }) => {
                                             <FontAwesomeIcon className="dark" size="lg" icon={faFile} /> Download Resume
                                         </Button>
                                     </a>
-                                    <img src={about} alt="connect" className="connect-img img-fluid animated" height="100px" width="200px" />
+                                    {/* <img src={about} alt="connect" className="connect-img img-fluid animated" height="100px" width="200px" /> */}
 
                                     {/* 187  290 */}
                                 </Card.Body>

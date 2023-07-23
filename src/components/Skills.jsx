@@ -45,7 +45,7 @@ const Skills = ({darkMode}) => {
                     <Card className="skill-nbcard">
                         <Card.Body>
                             <Card.Title>Programming Languages</Card.Title>
-                            <Card.Text>Java, Python, C++, JavaScript</Card.Text>
+                            <Card.Text>Java, Python, JavaScript, SQL</Card.Text>
                         </Card.Body>
                     </Card>
                     <Card className="skill-nbcard">
@@ -56,8 +56,8 @@ const Skills = ({darkMode}) => {
                     </Card>
                     <Card className="skill-nbcard">
                         <Card.Body >
-                            <Card.Title>Others</Card.Title>
-                            <Card.Text>MS office, Graphic Designing</Card.Text>
+                            <Card.Title>Tools</Card.Title>
+                            <Card.Text> VS Code, Github, Git, Figma, Canva</Card.Text>
                         </Card.Body>
                     </Card>
                 </Col>
