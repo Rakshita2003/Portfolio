@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "deae1c54db9c0da25281",
+    "revision": "0890eb3425fed58a3b32",
     "url": "/Portfolio/static/css/main.12bf29d0.chunk.css"
   },
   {
-    "revision": "deae1c54db9c0da25281",
-    "url": "/Portfolio/static/js/main.deae1c54.chunk.js"
+    "revision": "0890eb3425fed58a3b32",
+    "url": "/Portfolio/static/js/main.0890eb34.chunk.js"
   },
   {
     "revision": "d8f5ba55c3b78c25f0a5",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/home.e3724710.png"
   },
   {
-    "revision": "bc19dc1f2fe648539f251853d84a681d",
-    "url": "/Portfolio/static/media/RakshitaGowda_Resume.bc19dc1f.pdf"
+    "revision": "c4bb651d5c39d98cdc7adf0c0cc83478",
+    "url": "/Portfolio/static/media/RakshitaGowda_Resume.c4bb651d.pdf"
   },
   {
     "revision": "e73925f300ce3badd00a07cc58f2f154",
@@ -64,14 +64,6 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/contact.51c34c80.png"
   },
   {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/Portfolio/static/media/fontawesome-webfont.fee66e71.woff"
-  },
-  {
-    "revision": "b06871f281fee6b241d60582ae9369b9",
-    "url": "/Portfolio/static/media/fontawesome-webfont.b06871f2.ttf"
-  },
-  {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
     "url": "/Portfolio/static/media/fontawesome-webfont.af7ae505.woff2"
   },
@@ -80,11 +72,19 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "/Portfolio/static/media/fontawesome-webfont.b06871f2.ttf"
+  },
+  {
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/Portfolio/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  {
     "revision": "912ec66d7572ff821749319396470bde",
     "url": "/Portfolio/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "78710a9cff9707465a5b66b7e96cddff",
+    "revision": "5801d30b7de33f79305583d2fdff8933",
     "url": "/Portfolio/index.html"
   }
 ];
