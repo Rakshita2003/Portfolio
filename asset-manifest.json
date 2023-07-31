@@ -1,7 +1,7 @@
 {
   "main.css": "/Portfolio/static/css/main.12bf29d0.chunk.css",
-  "main.js": "/Portfolio/static/js/main.deae1c54.chunk.js",
-  "main.js.map": "/Portfolio/static/js/main.deae1c54.chunk.js.map",
+  "main.js": "/Portfolio/static/js/main.0890eb34.chunk.js",
+  "main.js.map": "/Portfolio/static/js/main.0890eb34.chunk.js.map",
   "static/js/1.d8f5ba55.chunk.js": "/Portfolio/static/js/1.d8f5ba55.chunk.js",
   "static/js/1.d8f5ba55.chunk.js.map": "/Portfolio/static/js/1.d8f5ba55.chunk.js.map",
   "static/css/2.810515c1.chunk.css": "/Portfolio/static/css/2.810515c1.chunk.css",
@@ -11,7 +11,7 @@
   "runtime~main.js.map": "/Portfolio/static/js/runtime~main.f18de50d.js.map",
   "static/media/TC.png": "/Portfolio/static/media/TC.a85cd99d.png",
   "static/media/home.png": "/Portfolio/static/media/home.e3724710.png",
-  "static/media/RakshitaGowda_Resume.pdf": "/Portfolio/static/media/RakshitaGowda_Resume.bc19dc1f.pdf",
+  "static/media/RakshitaGowda_Resume.pdf": "/Portfolio/static/media/RakshitaGowda_Resume.c4bb651d.pdf",
   "static/media/skills.png": "/Portfolio/static/media/skills.e73925f3.png",
   "static/media/SCR.png": "/Portfolio/static/media/SCR.27824e66.png",
   "static/media/MHC.png": "/Portfolio/static/media/MHC.dc813d6d.png",
@@ -19,10 +19,10 @@
   "static/media/BWS.png": "/Portfolio/static/media/BWS.81eb195f.png",
   "static/media/FRT.png": "/Portfolio/static/media/FRT.a4e7f1e9.png",
   "static/media/contact.png": "/Portfolio/static/media/contact.51c34c80.png",
-  "static/media/font-awesome.min.css": "/Portfolio/static/media/fontawesome-webfont.912ec66d.svg",
-  "static/css/main.12bf29d0.chunk.css.map": "/Portfolio/static/css/main.12bf29d0.chunk.css.map",
+  "static/media/font-awesome.min.css": "/Portfolio/static/media/fontawesome-webfont.b06871f2.ttf",
   "static/css/2.810515c1.chunk.css.map": "/Portfolio/static/css/2.810515c1.chunk.css.map",
+  "static/css/main.12bf29d0.chunk.css.map": "/Portfolio/static/css/main.12bf29d0.chunk.css.map",
   "index.html": "/Portfolio/index.html",
-  "precache-manifest.b03e7b9fa5b60802cba9316dc2a89cc4.js": "/Portfolio/precache-manifest.b03e7b9fa5b60802cba9316dc2a89cc4.js",
+  "precache-manifest.a88ca20b3db55aa05a57e9036095c8a8.js": "/Portfolio/precache-manifest.a88ca20b3db55aa05a57e9036095c8a8.js",
   "service-worker.js": "/Portfolio/service-worker.js"
 }
